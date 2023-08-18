@@ -1,0 +1,9 @@
+1.write a blog difference btwn HTTP1 vs HTTP2?
+    *HTTP stands for hypertext transfer protocol.
+    *HTTP user sends the request to the server & the server sends the response to the user.
+    *HTTP1 was created in 1997 & the HTTP2 was created in 2015.
+    *HTTP1 works on the textual format whereas,the HTTP2 works on the binary protocol.
+    *HTTP1It compresses data by itself and the HTTP2 uses HPACK for data compression.
+2.Write a blog about objects and its internal representation in Javascript
+   *An object, is a reference data type.
+   *Variabes are a reference value given as reference or a pointer to that value. 
